@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\bin\Debug\netcoreapp3.1\Exercícios de fixação.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Exercícios de fixação\obj\Debug\netcoreapp3.1\Exercícios de fixação.genruntimeconfig.cache
